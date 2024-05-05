@@ -46,3 +46,24 @@
 </table>
 
 
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>KYU</th>
+      <th>Tags</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">[Possibilities Array](https://www.codewars.com/kata/59b710ed70a3b7dd8f000027)</td>
+      <td align="center">7KYU</td>
+      <td align="center">Arrays</td>
+    </tr>
+  </tbody>
+</table>
+
+
+

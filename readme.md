@@ -58,8 +58,8 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">[Possibilities Array](https://www.codewars.com/kata/59b710ed70a3b7dd8f000027)</td>
-      <td align="center">7KYU</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/possibilities_array.py">Possibilities Array</a></td>
+      <td align="center">7</td>
       <td align="center">Arrays</td>
     </tr>
   </tbody>

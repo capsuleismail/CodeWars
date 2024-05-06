@@ -77,6 +77,11 @@
       <td align="center">7</td>
       <td align="center">Recursion</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/reverse.py">Reverse</a></td>
+      <td align="center">7</td>
+      <td align="center">Recursion</td>
+    </tr>
   </tbody>
 </table>
 

@@ -62,6 +62,16 @@
       <td align="center">7</td>
       <td align="center">Arrays</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/greatest_common_divisor.py">Greatest Common Divisor</a></td>
+      <td align="center">7</td>
+      <td align="center">Recursion</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/recursion_replication.py">Recursion Replicationy</a></td>
+      <td align="center">7</td>
+      <td align="center">Recursion</td>
+    </tr>
   </tbody>
 </table>
 

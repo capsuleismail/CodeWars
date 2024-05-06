@@ -72,6 +72,11 @@
       <td align="center">7</td>
       <td align="center">Recursion</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sum_of_a_nested_list.py">Sum Of A Nested List</a></td>
+      <td align="center">7</td>
+      <td align="center">Recursion</td>
+    </tr>
   </tbody>
 </table>
 

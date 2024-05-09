@@ -1,6 +1,6 @@
 # **[CodeWars](https://www.codewars.com/dashboard)**
 
-# **1. First and UNIQUE goal: solve all 2373 [problems](https://www.codewars.com/kata/latest/my-languages?beta=false) on Codewars.** <br />
+# **1. First and UNIQUE goal: solve all 2373 (8-7-6 KYU) [problems](https://www.codewars.com/kata/latest/my-languages?beta=false) on Codewars.** <br />
 
 ## **These are the subjects that I'm going to focus on.**
 

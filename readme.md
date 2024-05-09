@@ -229,6 +229,3 @@
     </tr>
   </tbody>
 </table>
-
-
-#https://github.com/capsuleismail/CodeWars/blob/main/sum_mins.py

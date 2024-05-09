@@ -102,9 +102,9 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/even_last.py">Evens Times Last</a></td>
+      <td align="center">7</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

@@ -10,10 +10,7 @@
 # Note: This is an introductory Kata for a series... coming soon!
 
 
-import time
 
-start = time.time()
-print('START', start)
 
 
 def reduce_fraction(fraction):
@@ -28,7 +25,4 @@ def reduce_fraction(fraction):
     return (num, den)
 
 
-print(reduce_fraction([45, 120]))
-#[45, 120] --> [3, 8]
-end = time.time()
-print('END:', end - start)
+

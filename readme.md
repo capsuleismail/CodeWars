@@ -15,15 +15,15 @@
   <tbody>
     <tr>
       <td align="center">Algorithms</td>
-      <td align="center">1375</td>
+      <td align="center">1341</td>
     </tr>
     <tr>
       <td align="center">Arrays</td>
-      <td align="center">667</td>
+      <td align="center">609</td>
     </tr>
     <tr>
-      <td align="center">DSA</td>
-      <td align="center">144</td>
+      <td align="center">DS</td>
+      <td align="center">142</td>
     </tr>
     <tr>
       <td align="center">Dynamic Programming</td>
@@ -31,17 +31,16 @@
     </tr>
     <tr>
       <td align="center">Functional Programming</td>
-      <td align="center">49</td>
+      <td align="center">47</td>
     </tr>
     <tr>
       <td align="center">OOP</td>
-      <td align="center">71</td>
+      <td align="center">62</td>
     </tr>
     <tr>
       <td align="center">Recursion</td>
       <td align="center">56</td>
     </tr>
-    
   </tbody>
 </table>
 

@@ -82,6 +82,11 @@
       <td align="center">7</td>
       <td align="center">Recursion</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/filtering_values_for_election.py">Filtering Values For an Election</a></td>
+      <td align="center">6</td>
+      <td align="center">Recursion</td>
+    </tr>
   </tbody>
 </table>
 

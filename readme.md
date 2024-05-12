@@ -132,7 +132,7 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/without_last.py">Working With Arrays</a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>

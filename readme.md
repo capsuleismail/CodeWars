@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py">Moving Zeros To The End**(Special)**</a></td>
-      <td align="center">5</td>
+      <td align="center">**5(Special)**</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
@@ -127,9 +127,9 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/find_the_divisors.py">Find The Divisors</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

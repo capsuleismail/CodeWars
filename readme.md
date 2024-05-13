@@ -22,7 +22,7 @@
       <td align="center">609</td>
     </tr>
     <tr>
-      <td align="center">DS</td>
+      <td align="center">DSA</td>
       <td align="center">142</td>
     </tr>
     <tr>
@@ -137,7 +137,8 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/double_every_other.py">Double Every Other
+</a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>

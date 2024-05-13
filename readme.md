@@ -139,8 +139,8 @@
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/double_every_other.py">Double Every Other
 </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">7</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

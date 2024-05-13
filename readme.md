@@ -117,11 +117,6 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py">Moving Zeros To The End**(Special)**</a></td>
-      <td align="center">**5(Special)**</td>
-      <td align="center">Algorithms</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/ipv4_int32.py">IPV4 To Int32</a></td>
       <td align="center">6</td>
       <td align="center">Algorithms</td>
@@ -133,6 +128,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/without_last.py">Working With Arrays</a></td>
+      <td align="center">7</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/bit_march.py">Odd March Bits 8 bits</a></td>
       <td align="center">7</td>
       <td align="center">Arrays</td>
     </tr>
@@ -222,9 +222,9 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py">Moving Zeros To The End**(Special)**</a></td>
+      <td align="center">**5(Special)**</td>
+      <td align="center">Algorithms</td>
     </tr>
   </tbody>
 </table>

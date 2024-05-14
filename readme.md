@@ -148,7 +148,8 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/maskify.py">Credit Card Mask</a>
+</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>

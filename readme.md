@@ -151,45 +151,45 @@
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/maskify.py">Credit Card Mask</a>
 </td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_sum.py">Get Sum</a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/dont_give_me_five.py">Don't Give Me Five!
 </a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/stray.py">Find The Stray Number
 </a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sum_two_smallest_numbers.py">Sum Of Two Lowest Lositive Integers</a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sum_of_odd_triangle_row_alternative.py">Sum Of Odd Numbers
 </a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/odd_or_even.py">Odd or Even</a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/remove_smallest.py">Remove Smallest</a></td>
       <td align="center">7</td>
-      <td align="center">Algorithms</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

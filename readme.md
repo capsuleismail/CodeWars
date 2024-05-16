@@ -217,9 +217,9 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/spin_word.py">Stop gninnipS My sdroW!</a></td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

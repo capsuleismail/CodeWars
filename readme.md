@@ -244,8 +244,8 @@
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/find_outlier.py">Find The Parity Outlier
 </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>

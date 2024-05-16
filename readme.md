@@ -212,9 +212,9 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/multi_3_or_5.py">Multiples of 3 or 5</a></td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

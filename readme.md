@@ -274,9 +274,10 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/is_valid_walk.py">Take a Ten Minutes Walk
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>

@@ -280,9 +280,10 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sort_array.py">Sort The Odd
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>

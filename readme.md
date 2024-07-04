@@ -332,24 +332,24 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/determine_winner.py">Go: Stone Scoring</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/length_of_sequence.py">Finding length of the sequence</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/equable_triangle.py">Check if a triangle is an equable triangle!</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sum_no_duplicates.py">Sum a list but ignore any duplicates</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href=""> </a></td>

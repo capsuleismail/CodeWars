@@ -352,27 +352,27 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/divisors.py">Count the divisors of a number</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href=""https://github.com/capsuleismail/CodeWars/blob/main/difference_of_squares.py">Difference of Squares</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/factorial_division.py">Factorial Division</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_larger_numbers.py">Number Pairs</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>

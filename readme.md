@@ -372,82 +372,87 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/alphabet_position.py">Replace With Alphabet Position</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>

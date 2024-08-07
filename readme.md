@@ -382,9 +382,29 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/high_and_low.py">Highest and Lowest</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/descending_order.py">Descending Order</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/accum.py">Mumbling</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/xo.py">Exes and Ohs</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/find_short.py">Shortest Word</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>

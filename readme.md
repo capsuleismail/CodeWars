@@ -452,7 +452,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_min_max.py"> </a></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_min_max.py">Find Min & Max</a></td>
       <td align="center">7</td>
       <td align="center"></td>
     </tr>

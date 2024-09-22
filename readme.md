@@ -542,8 +542,8 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py">Moving Zeros To The End**(Special)**</a></td>
-      <td align="center">**5(Special)**</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py"> Moving Zeros To The End (Special) </a></td>
+      <td align="center"> 5(Special) </td>
       <td align="center">Algorithms</td>
     </tr>
   </tbody>

@@ -434,51 +434,111 @@
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sort_by_bit.py">Sorting by bits</a></td>
       <td align="center">6</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/reverse_words.py">Reversing Words in a String</a></td>
-      <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">8</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/is_alt.py">Are we alternate?</a></td>
       <td align="center">6</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/missing_no.py">Find the Missing Number</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_min_max.py">Find Min & Max</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/rep_set.py">Natural Emptiness</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/poly_derivative.py">Nova Polynomial 4. Derivative</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/distances_from_average.py">Distance from the average</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/sumsquares.py">Sum squares of numbers in list that may contain more lists</a></td>
       <td align="center">7</td>
-      <td align="center"></td>
+      <td align="center">Recursion</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/zeros.py">Without two zeros in a row</a></td>
       <td align="center">6</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/reverser.py">Reverser</a></td>
+      <td align="center">7</td>
+      <td align="center">Recursion</td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""></a></td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>

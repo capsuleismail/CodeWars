@@ -487,12 +487,12 @@
       <td align="center">Recursion</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a>Latin Squares</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/make_latin_square.py"></a>Latin Squares</td>
       <td align="center">7</td>
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a>Move 10</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/move_ten.py"></a>Move 10</td>
       <td align="center">7</td>
       <td align="center">Arrays</td>
     </tr>

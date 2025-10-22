@@ -497,37 +497,37 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/expanded_form.py"></a>Write Number in Expanded Form</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/expanded_form.py">Write Number in Expanded Form</a></td>
       <td align="center">6</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/index_equals_value.py"></a>Element equals its index</td>
-      <td align="center">7</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/squarechecker.py"></a>Are they square?</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/index_equals_value.py">Element equals its index</a></td>
       <td align="center">7</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/valid_parentheses.py"></a>Valid Parentheses</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/squarechecker.py">Are they square?</a></td>
       <td align="center">7</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/validate_pin.py"></a>Regex validate PIN code</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/valid_parentheses.py">Valid Parentheses</a></td>
       <td align="center">7</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/x.py"></a>X marks the spot!</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/validate_pin.py">Regex validate PIN code</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/x.py">X marks the spot!</a></td>
       <td align="center">6</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/ranks.py"></a>Rank Vector</td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/ranks.py">Rank Vector</a></td>
       <td align="center">6</td>
       <td align="center">Arrays</td>
     </tr>

@@ -502,34 +502,34 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/index_equals_value.py"></a>Element equals its index</td>
+      <td align="center">7</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/squarechecker.py"></a>Are they square?</td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/valid_parentheses.py"></a>Valid Parentheses</td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/validate_pin.py"></a>Regex validate PIN code</td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/x.py"></a>X marks the spot!</td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/ranks.py"></a>Rank Vector</td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
     </tr>
     <tr>
       <td align="center"><a href=""></a></td>

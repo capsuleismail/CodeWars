@@ -532,6 +532,21 @@
       <td align="center">Arrays</td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/multiplication_table.py">Multiplication Table</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/highest_rank.py">Highest Rank Number in an Array</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/high.py">Highest Scoring Word</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
       <td align="center"><a href=""></a></td>
       <td align="center"></td>
       <td align="center"></td>

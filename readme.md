@@ -553,7 +553,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/mine_location.py">Find the Mine</a></td>
-      <td align="center"6></td>
+      <td align="center">6</td>
       <td align="center">Algorithms</td>
     </tr>
     <tr>

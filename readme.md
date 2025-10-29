@@ -557,14 +557,14 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/get_the_vowels">Consecutive Vowels in a String</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
-      <td align="center"><a href=""></a></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/is_isogram.py">Isograms</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/dig_pow.py">Playing with digits</a></td>

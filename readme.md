@@ -583,6 +583,73 @@
       <td align="center">Algorithms</td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/twisted.py">Twisted Sum
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/powers.py">Sum of powers of 2
+</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/even_fib.py">Even Fibonacci Sum
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Dynamic Programming</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/change.py">Search for letters
+</a></td>
+      <td align="center">7</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/climbing_stairs.py">Climbing Stairs
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Dynamic Programming</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/group_by_commas.py">Grouped by commas
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Algorithms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/rotate.py">Rotate Array
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/replace_common.py">The most common letter
+</a></td>
+      <td align="center">6</td>
+      <td align="center">Arrays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="">
+</a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="">
+</a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="">
+</a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+================================================================================================================================================
+    <tr>
       <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/moving_zeros_to_the_end.py"> Moving Zeros To The End (Special) </a></td>
       <td align="center"> 5(Special) </td>
       <td align="center">Algorithms</td>
